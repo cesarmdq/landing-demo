@@ -167,3 +167,8 @@ nav {
     opacity: 0.2;
   }
 }
+@media screen and (max-width: 370px) {
+  .cta-add {
+    margin: 20px 0px 0px 0px;
+  }
+}
