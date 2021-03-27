@@ -118,3 +118,10 @@ nav {
   left: 20%;
   z-index: -1;
 }
+.laptop-select {
+  position: absolute;
+  width: 15%;
+  display: flex;
+  justify-content: space-around;
+  right: 20%;
+}
